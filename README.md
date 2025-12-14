@@ -76,7 +76,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
-## 📁 Project Structure
+### 📁 Project Structure
 automl-nexus-pro/
 │
 ├── app.py                       # 🚀 Main Streamlit application
@@ -96,7 +96,7 @@ automl-nexus-pro/
     └── ui/                      # 🎨 UI assets
 
 
-# 3. Run the application
+### 3. Run the application
 streamlit run app.py
 
 📊 Supported File Formats
@@ -106,7 +106,7 @@ streamlit run app.py
 ✅ JSON (.json)
 ✅ Parquet (.parquet)
 
-🔄 Workflow
+##🔄 Workflow
 
 1️⃣ Upload your dataset
 2️⃣ Analyze with AI-powered profiling
@@ -115,7 +115,7 @@ streamlit run app.py
 5️⃣ Analyze ML readiness
 6️⃣ Export professional reports
 
-🏗️ Architecture Highlights
+###🏗️ Architecture Highlights
 
 Modular Design – Separate profiling, cleaning, and visualization layers
 
@@ -125,7 +125,7 @@ Component-Based UI – Reusable and scalable components
 
 Enterprise-Ready – Designed for large datasets
 
-🏆 Performance Metrics
+###🏆 Performance Metrics
 Metric	Improvement	Impact
 ⏱️ Data Preparation Time	70% Faster	Hours → Minutes
 ✅ Error Rate	85% Reduction	Automated validation
@@ -145,7 +145,7 @@ Metric	Improvement	Impact
 
 We welcome contributions! 🚀
 
-How to Contribute
+###How to Contribute
 # Create a feature branch
 git checkout -b feature/AmazingFeature
 
@@ -158,7 +158,7 @@ git push origin feature/AmazingFeature
 
 Then open a Pull Request.
 
-🐛 Bug Reports
+###🐛 Bug Reports
 
 Include:
 
@@ -170,7 +170,7 @@ Expected vs actual behavior
 
 Screenshots (if applicable)
 
-💡 Feature Requests
+###💡 Feature Requests ### 
 
 Describe the use case
 
@@ -178,12 +178,12 @@ Explain the benefit
 
 Suggest implementation ideas
 
-📄 License
+###📄 License ###
 
 This project is licensed under the MIT License.
 See the LICENSE file for details.
 
-👨‍💻 Author & Credits
+### 👨‍💻 Author & Credits ###
 
 Chinni Reddy Gayam
 🎓 Data Science Professional
