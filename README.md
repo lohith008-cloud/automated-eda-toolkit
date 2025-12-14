@@ -185,7 +185,7 @@ See the LICENSE file for details.
 
 ### 👨‍💻 Author & Credits ###
 
-Chinni Reddy Gayam
+Lohith Reddy Gayam
 🎓 Data Science Professional
 
 
