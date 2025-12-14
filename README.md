@@ -64,6 +64,11 @@ All through a **single, intuitive web interface**.
 
 ### 🚀 Quick Start
 linkedin post Link:- https://www.linkedin.com/posts/lohith-reddy-gayam-14906a296_this-article-explains-how-i-built-automl-activity-7405933041556041728-2Kfy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEeOSkkBrA_xn2nKwi6aIJCkhrCAyAzIsIM
+
+### Live Demo
+Hugging Face :- https://huggingface.co/spaces/chinni07/DataAnalysisandMachineLearningPlatform
+
+
 ```bash
 # 1. Clone the repository
 git clone https://github.com/ChinniReddyGayam/automl-nexus-pro.git
